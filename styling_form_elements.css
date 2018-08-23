@@ -1,0 +1,30 @@
+body {
+    font-family: Arial,sans-serif;
+    font-size: 0.8em;
+}
+
+/* 
+input[type="text"] {
+    border: 1px solid yellow;
+    width: 300px;
+    padding: 3px;
+    color: slategrey;
+    border: 1px dotted #000;
+} 
+*/
+
+/* textarea {
+    width: 350px;
+    height: 180px;
+    font: inherit;
+    padding: 5px;
+    border: 1px solid #000;
+} */
+
+input[type="submit"] {
+    padding: 5px 15px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    font-size: 1em;
+    font-weight: bold; 
+}

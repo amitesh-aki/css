@@ -1,0 +1,11 @@
+#container{
+	width:200px;
+	background:#aaa;
+	height:250px;
+	/* overflow:visible;		default behaviour */
+	overflow:auto;				/* Will add scroll bar only if the content overflows i.e. content goes over the dimensions of the div */
+	/* overflow:scroll;			Will always have scroll bar for both top to bottom and left to right scrolling irrespective of it's need. */
+	/* overflow-x:scroll;		For vertical scroll bar only */
+	/* overflow-y:scroll;		For horizontal scroll bar only */
+	/* overflow:hidden;			For hiding overflow content */
+}

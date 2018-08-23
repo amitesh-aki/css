@@ -1,0 +1,25 @@
+https://htmlcolorcodes.com/color-names/
+
+
+#000: black
+
+#fff: white
+
+#bbb: light grey
+
+#eee: gray
+
+#ededed: very light color, hardly visible
+
+#aaa: light grey
+
+#rgb(): red green blue colors
+
+rgb(0,0,0): black
+rgb(255,255,255): white
+
+#rgba(): Here, 'a' or alpha is for opacity of that color which we have chosen.
+
+#rgba(0,0,0,0.5): Lighter version of black (gray).
+
+#slategray or #slategrey:	

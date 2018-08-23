@@ -1,0 +1,31 @@
+/* To resize image to 200px X 200px size 
+img {
+  display: block;
+  max-width: 200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+}
+*/
+
+.image-box{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	border: 10px solid #ccc;
+	border-radius: 5px;
+}
+
+.image-box span{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	/* opacity: .25; */
+	color: chocolate;
+	padding: 15px;
+	font: 1em Georgia,serif;
+	font-style: italic;
+	width: 170px;
+}

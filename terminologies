@@ -1,0 +1,25 @@
+API: 
+Aplication Program Interface. Set of routines, protocols, and tools for building software applications. Specifies how software components should interact.
+
+
+CSS: 
+Cascading Style Sheets. A style sheet language used for describing the presentation of a document written in a markup language.
+
+rel: 
+rel attribute specifies the relationship between the current document and the linked document. Only used if the href attribute is present.
+
+src: Source Code fIle Computing
+
+href: Hypertext reference From the Source
+
+child:
+
+descendant:
+
+>: Child selector symbol
+
+em:
+
+px:
+
+%:

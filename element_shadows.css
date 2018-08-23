@@ -1,0 +1,9 @@
+#container{
+	width: 100px;
+	height: 100px;
+	margin: 50px;
+	padding: 10px;
+	background: #ccc;
+
+	box-shadow: -5px 5px 10px 3px #aaa;
+}

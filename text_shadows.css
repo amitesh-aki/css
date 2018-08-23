@@ -1,0 +1,20 @@
+body{
+	background: #ccc;
+}
+
+p{
+	margin: 0;
+	font-size: 1.6em;
+	/*
+	padding: 15px;
+	color: #fff;
+	background: #BDB76B;
+	*/
+}
+
+p.shadow{
+	/* text-shadow: 1px 1px 3px #aaa; */
+	/* text-shadow: -15px -15px #ff9933, 15px 15px green; */
+	color: #c8c8c8;
+	text-shadow: 1px 1px #fff, -1px -1px #555;
+}

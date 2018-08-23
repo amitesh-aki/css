@@ -1,0 +1,12 @@
+#container{
+	width: 650px;
+	height: 350px;
+	background: url('amitesh') no-repeat 50% 50%, url('happiness_cup') no-repeat;
+
+	/* long process:
+	background-image: url('amitesh'), url('happiness_cup');
+	background-repeat: no-repeat;
+	background-position: top right, 0;
+	background-position: 50% 50%;	 means at the center position.
+	*/
+}

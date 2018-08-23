@@ -1,0 +1,17 @@
+.message{
+	width: 200px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 2px 2px 2px 25px;		/* top right bottom left */
+	background: #aaa url('amitesh') no-repeat 10px;	
+		
+	/* This eliminates the repetetion of multiple properties as used above. 
+	It has following arguments here, all in one line: 
+	"background-color" "background-image" "background-repeat" "background-position". */
+
+	/*
+	background-color: #aaa;
+	background-image: url('amitesh');
+	background-repeat: no-repeat;
+	background-position: 10px;		This property takes in two arguments like "left top", "bottom right" type cominations for positioning. By default it selects center position */
+}

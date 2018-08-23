@@ -1,0 +1,22 @@
+/*
+				Vendor prefixes for:
+-webkit-		google chrome and safari
+-moz- 			mozilla firefox
+-ms- 			internet explorer
+-o- 			opera
+*/
+
+h1 {
+	width: 275px;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+	/* -webkit-transform: rotate(10deg);
+	-webkit-transform: rotate(0);
+	-webkit-transform-origin: bottom right;		By default transfor-origin is at center
+												We can set transform origin parameters to be in "px px" also
+	-webkit-transform: translate(100px, 100px);
+	-webkit-transform: skew(10deg);
+	-webkit-transform: scale(0.5, 1); */
+	-webkit-transform: scale(0.5, 1) rotate(20deg) skew(10deg); 
+}

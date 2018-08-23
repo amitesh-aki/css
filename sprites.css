@@ -1,0 +1,25 @@
+.button{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.button li{
+	width: 42.5px;
+	height: 47px;
+	display: inline-block;
+	background-color: #aaa;
+	margin-right: 10px;
+}
+
+.button li.multi{
+	background: url(sprites.gif) no-repeat -47px;
+}
+
+.button li.fast{
+	background: url(sprites.gif) no-repeat -91px;
+}
+
+.button li:hover{
+	background: url(sprites.gif) no-repeat;
+}

@@ -1,0 +1,12 @@
+font-size:
+
+pt: points.
+
+px: Usually used for sizing div, elements, container-element or anything
+
+percent:
+
+em:
+
+1em = 10px = 62.4%
+1.2em = 12px

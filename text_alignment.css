@@ -1,0 +1,7 @@
+.column{
+	width:200px;
+	padding:5px;
+	border-left:1px solid #000;
+	border-right:1px solid #000;
+	text-align:justify;
+}
